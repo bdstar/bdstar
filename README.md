@@ -61,8 +61,8 @@ I am a professional software developer from last 8+ years. I have experience in 
 <br />
 
 ### GitHub Stats:
-<img width='600' src="https://github-readme-stats.vercel.app/api?username=bdstar" />
-### Most Used Languages:
-<img width='600' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdstar" />
-### My Contribution:
-<img width='600' src="https://github-readme-streak-stats.herokuapp.com/?user=bdstar" />
+<img width='500' src="https://github-readme-stats.vercel.app/api?username=bdstar" />
+<br />
+<img width='500' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdstar" />
+<br />
+<img width='500' src="https://github-readme-streak-stats.herokuapp.com/?user=bdstar" />
