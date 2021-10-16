@@ -18,10 +18,10 @@ I am a professional software developer from last 8+ years. I have experience in 
 
 ## Fun Fact - About Me!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+🌱 I’m currently learning everything 🤣
+👯 I’m looking to collaborate with other content creators
+🥅 Goals: Contribute more to Open Source projects
+⚡ Fun fact: I love to draw and play guitar / drums
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `printf("hello world")` <br/>
 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
@@ -60,6 +60,6 @@ I am a professional software developer from last 8+ years. I have experience in 
 <br />
 
 
-https://github-readme-stats.vercel.app/api?username=bdstar
-https://github-readme-stats.vercel.app/api/top-langs/?username=bdstar
-https://github-readme-streak-stats.herokuapp.com/?user=bdstar
+<img width='200' src="https://github-readme-stats.vercel.app/api?username=bdstar" />
+<img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdstar" />
+<img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=bdstar" />
