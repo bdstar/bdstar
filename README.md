@@ -18,10 +18,10 @@ I am a professional software developer from last 8+ years. I have experience in 
 
 ## Fun Fact - About Me!!
 
-🌱 I’m currently learning everything 🤣
-👯 I’m looking to collaborate with other content creators
-🥅 Goals: Contribute more to Open Source projects
-⚡ Fun fact: I love to draw and play guitar / drums
+🌱 I’m currently learning everything 🤣<br/>
+👯 I’m looking to collaborate with other content creators<br/>
+🥅 Goals: Contribute more to Open Source projects<br/>
+⚡ Fun fact: I love to draw and play guitar / drums<br/>
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `printf("hello world")` <br/>
 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
