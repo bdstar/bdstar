@@ -58,8 +58,11 @@ I am a professional software developer from last 8+ years. I have experience in 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
-
-<img width='200' src="https://github-readme-stats.vercel.app/api?username=bdstar" />
-<img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdstar" />
-<img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=bdstar" />
+### GitHub Stats:
+<img width='600' src="https://github-readme-stats.vercel.app/api?username=bdstar" />
+### Most Used Languages:
+<img width='600' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdstar" />
+### My Contribution:
+<img width='600' src="https://github-readme-streak-stats.herokuapp.com/?user=bdstar" />
