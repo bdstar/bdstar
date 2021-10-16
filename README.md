@@ -63,6 +63,6 @@ I am a professional software developer from last 8+ years. I have experience in 
 ### GitHub Stats:
 <img width='500' src="https://github-readme-stats.vercel.app/api?username=bdstar" />
 <br />
-<img width='500' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdstar" />
+<img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdstar" />
 <br />
 <img width='500' src="https://github-readme-streak-stats.herokuapp.com/?user=bdstar" />
