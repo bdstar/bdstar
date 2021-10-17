@@ -1,4 +1,5 @@
 <!--
+### Hi, This is Md. Abdullah al Mamun 👋
 **bdstar/bdstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,7 +13,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi, This is Md. Abdullah al Mamun 👋
+<h1 align='center'>
+  Hi there 👋 This is Md. Abdullah al Mamun 👨‍💻
+</h1>
+
+<p align="center">
+    <a href="https://github.com/bdstar/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/bdstar/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://codecov.io/gh/bdstar/github-readme-stats">
+      <img src="https://codecov.io/gh/bdstar/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/bdstar/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/bdstar/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/bdstar/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/bdstar/github-readme-stats?color=0088ff" />
+    </a>
+</p>
 
 I am a professional software developer from last 8+ years. I have experience in analysis, design, development, testing and implementation of application designing and development platform. I have good exposure to object-oriented design, software architectures, design patterns, test-driven development and Project Management. I am able to build dynamic, visually-attractive, responsive, end-to-end user experience, and innovative complete software architecture including front-end and back-end. Also work with databases, servers, tools, frameworks, approaches. APIs, version control systems, and third-party apps. I am capable to lead a team of developers, designers, and network managers and ensure digital outcomes are in line with business objectives.
 
