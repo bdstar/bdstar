@@ -125,7 +125,11 @@ I am a professional software developer from last 8+ years. I have experience in 
 <img width='500' src="https://github-readme-streak-stats.herokuapp.com/?user=bdstar" />
 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bdstar&theme=vue)
+<br/>
 
 [![](https://raw.githubusercontent.com/bdstar/bdstar/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/bdstar/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/bdstar/bdstar/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/bdstar/github-profile-summary-cards) [![](https://raw.githubusercontent.com/bdstar/bdstar/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/bdstar/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/bdstar/bdstar/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/bdstar/github-profile-summary-cards) [![](https://raw.githubusercontent.com/bdstar/bdstar/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/bdstar/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/bdstar/bdstar/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/bdstar/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/bdstar/bdstar/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/bdstar/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/bdstar/bdstar/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/bdstar/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/bdstar/bdstar/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/bdstar/github-profile-summary-cards)
