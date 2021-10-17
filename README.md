@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 
 I am a professional software developer from last 8+ years. I have experience in analysis, design, development, testing and implementation of application designing and development platform. I have good exposure to object-oriented design, software architectures, design patterns, test-driven development and Project Management. I am able to build dynamic, visually-attractive, responsive, end-to-end user experience, and innovative complete software architecture including front-end and back-end. Also work with databases, servers, tools, frameworks, approaches. APIs, version control systems, and third-party apps. I am capable to lead a team of developers, designers, and network managers and ensure digital outcomes are in line with business objectives.
 
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+
 ## Fun Fact - About Me!!
 
 🌱 &emsp;I’m currently learning everything 🤣<br/>
