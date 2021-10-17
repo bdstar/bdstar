@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 </h1>
 
 
-
+<p align="justify">
 I am a professional software developer from last 8+ years. I have experience in analysis, design, development, testing and implementation of application designing and development platform. I have good exposure to object-oriented design, software architectures, design patterns, test-driven development and Project Management. I am able to build dynamic, visually-attractive, responsive, end-to-end user experience, and innovative complete software architecture including front-end and back-end. Also work with databases, servers, tools, frameworks, approaches. APIs, version control systems, and third-party apps. I am capable to lead a team of developers, designers, and network managers and ensure digital outcomes are in line with business objectives.
+</p>
 
 [![Twitter: techntut](https://img.shields.io/twitter/follow/techntut?style=social)](https://twitter.com/techntut)
 [![Linkedin: webrock](https://img.shields.io/badge/-webrock-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/webrock/)](https://www.linkedin.com/in/webrock/)
@@ -72,7 +73,7 @@ I am a professional software developer from last 8+ years. I have experience in 
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-### Languages:
+### Web Development:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -82,6 +83,8 @@ I am a professional software developer from last 8+ years. I have experience in 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 
+<br/>
+### DevOps Tools:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
