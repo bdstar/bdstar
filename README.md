@@ -127,6 +127,7 @@ I am a professional software developer from last 8+ years. I have experience in 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bdstar&theme=vue)
 <br/>
+![](https://raw.githubusercontent.com/bdstar/bdstar/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
 
 [![](https://raw.githubusercontent.com/bdstar/bdstar/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/bdstar/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/bdstar/bdstar/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/bdstar/github-profile-summary-cards) 
