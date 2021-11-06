@@ -132,13 +132,7 @@ I am a professional software developer from last 8+ years. I have experience in 
 <img align="left" alt="firebase" width="104px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <br />
 
-### IDEs:
-<img align="left" alt="Visual_Studio_Code" width="104px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img align="left" alt="Visual_Studio" width="104px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-<img align="left" alt="sublime_text" width="104px" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
-<img align="left" alt="PyCharm" width="104px" src="	https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-<img align="left" alt="phpstorm" width="104px" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />
-<br />
+
 
 ### Tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -171,6 +165,13 @@ I am a professional software developer from last 8+ years. I have experience in 
 <img align="left" alt="Digital_Ocean" width="104px" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
 <br />
 
+### IDEs:
+<img align="left" alt="Visual_Studio_Code" width="104px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img align="left" alt="Visual_Studio" width="104px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+<img align="left" alt="sublime_text" width="104px" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+<img align="left" alt="PyCharm" width="104px" src="	https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+<img align="left" alt="phpstorm" width="104px" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />
+<br />
 
 ### GitHub Stats:
 <img width='500' src="https://github-readme-stats.vercel.app/api?username=bdstar" />
